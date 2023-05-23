@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaqueline</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscnewlf&label=Profile%20views&color=0e75b6&style=flat" alt="jscnewlf" /> </p>
 
-- 📄 Know about my experiences<br> [Development, updating e-commerce plataforms as LINX, VTEX (IO and CMS), Shopify, LojaIntegrada, BetaLabs, JET, Nuvem Shop, Tray, Tray Corp. <br> Developing landing pages at wordpress, configuring GTM, xml for google merchant feed and facebook Webhooks/API development for web applications automation. <br> Most used languages & Tech : PHP, REACTJS, JAVASCRIPT, JQUERY, LIQUID Elementor, Bubble, VTEX CMS, VTEXIO, JET, SHOPIFY]<br> 
+ I am a passionate learner and educator, driven by creativity and problem-solving. When faced with challenges, I always seek multiple alternatives before saying "no" to a task. I am highly sociable and friendly, and I never give up in the face of difficulty. I am not intimidated by tasks that require additional knowledge; instead, I actively pursue opportunities to deliver the best results possible. <br> 
+
+I have a Bachelor's Degree in Systems Analysis and Development, which I am currently pursuing at Estácio. Throughout my education, I have gained a solid understanding of various programming languages and technologies, including HTML, CSS, JavaScript, PHP, and SQL. I am also proficient in using Git for version control and have experience with ASP.NET Razor, MVC, ReactJS, jQuery, C#, Laravel, Bootstrap, .NET, SEO, NGINX, Node.js, VTEXIO, VTEX CMS, LINX, Liquid, Shopify, JET, and WordPress.
+<br> 
+In terms of professional experience, I am currently working as a Front End Developer at Agência FG. In this role, I have been responsible for developing and updating e-commerce platforms such as LINX, VTEX, LojaIntegrada, BetaLabs, JET, Nuvem Shop, and Tray/Tray Corp. I have also written documentation to ensure alignment in procedures and best practices among developers. Additionally, I have experience developing landing pages on WordPress, configuring GTM, XML for Google Merchant feed, and Facebook.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaquesc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaquesc" height="30" width="40" /></a>
