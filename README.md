@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscnewlf&label=Profile%20views&color=0e75b6&style=flat" alt="jscnewlf" /> </p>
 Guided by the philosophy that "In the world of technology, nothing is impossible", I am a lifelong learner
 Passionate about sharing knowledge and exchanging experiences. Motivated by creativity and
-problem-solving, I face challenges by looking for several alternatives before refusing a task. <br>
+problem-solving, I face challenges by looking for several alternatives before refusing a task. <br><br>
 In addition, I constantly seek to promote a pleasant and motivating work environment.
 Encouraging the team and other employees to overcome challenges, contributing to a
-Continuous and collaborative learning. For me, there is no victory and success without the collective! <br> 
+Continuous and collaborative learning. For me, there is no victory and success without the collective! <br> <br>
 
 I have a Bachelor's Degree in Systems Analysis and Development, which I am currently pursuing at Estácio. Throughout my education, I have gained a solid understanding of various programming languages and technologies, including HTML, CSS, JavaScript, PHP, and SQL. I am also proficient in using Git for version control and have experience with ASP.NET Razor, MVC, ReactJS, jQuery, C#, Laravel, Bootstrap, .NET, SEO, NGINX, Node.js, VTEXIO, VTEX CMS, LINX, Liquid, Shopify, JET, and WordPress.
 <br> 
